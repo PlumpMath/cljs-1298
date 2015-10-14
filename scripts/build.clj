@@ -6,5 +6,5 @@
   {:main 'cljs-1298.core
    :output-to "resources/cljs_1298.js"
    :output-dir "resources"
-   :asset-path ""
+   :asset-path "resources"
    :verbose true})
